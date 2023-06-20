@@ -1,5 +1,5 @@
 # Northampton-Medical-Clinic-Java-CRM
-CRM written on Object-Oriented Java (Using the MVC Pattern)
+A Customer Relationship Management (CRM) system for Northampton Medical Clinic, developed using Object-Oriented Java and implementing the Model-View-Controller (MVC) design pattern.
 
 -Admin Privileges (Reception Staff)-
 
