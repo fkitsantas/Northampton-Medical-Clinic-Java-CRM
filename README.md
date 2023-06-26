@@ -11,7 +11,7 @@
 
 ## About the Project
 
-The Northampton Medical Clinic Java CRM is a Customer Relationship Management (CRM) system developed specifically for the Northampton Medical Clinic. This project was built using Object-Oriented Java and implements the Model-View-Controller (MVC) design pattern. The system provides an admin interface for reception staff with the username 'admin' and password '123'.
+The Northampton Medical Clinic Java CRM is a Customer Relationship Management (CRM) system developed specifically for the Northampton Medical Clinic. This project was built using Object-Oriented Java and implements the Model-View-Controller (MVC) design pattern. 
 
 ## Technical Stack
 
